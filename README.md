@@ -9,6 +9,6 @@ Alice <br>
    
 
 For example,<br>
-     Basis A  &nbsp &nbsp &nbsp  Basis B
-     | 0> = 0 &nbsp &nbsp &nbsp  | 0> = 0
-     | 0> = 0 &nbsp &nbsp &nbsp  | 0> = 0
+     Basis A  &nbsp &nbsp &nbsp  Basis B <br>
+     | 0> = 0 &nbsp &nbsp &nbsp  | 0> = 0 <br>
+     | 0> = 0 &nbsp &nbsp &nbsp  | 0> = 0<br>
