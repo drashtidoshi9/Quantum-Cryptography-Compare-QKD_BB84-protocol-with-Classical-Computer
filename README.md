@@ -26,7 +26,7 @@ Bob’s results&nbsp; &nbsp; &nbsp;1-00-0+0+0-+--1+ <br>
 Bob receives the stream of qubits and measures each one in a random basis:<br>
 &nbsp; &nbsp; &nbsp;ABAABAAABABBBBAB <br>
 
-So he gets,**0**0*0*0*+--** <br>
+So he gets, &nbsp;**0**0*0*0*+--** <br>
 
 Then Alice and Bob compare their measurement bases, not the results, via a public channel.<br>
 So Bob and Alice are left with 7 useable bits out of 16 <br>
