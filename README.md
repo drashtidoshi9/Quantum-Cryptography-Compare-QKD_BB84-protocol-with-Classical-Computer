@@ -12,3 +12,12 @@ For example,<br>
      Basis A  &nbsp; &nbsp; &nbsp;  Basis B <br>
      | 0> = 0 &nbsp; &nbsp; &nbsp;  | 0> = 0 <br>
      | 0> = 0 &nbsp; &nbsp; &nbsp;  | 0> = 0<br>
+
+Alice’s bits &nbsp; &nbsp; &nbsp; 0101100010101100 <br>
+Alice’s bases &nbsp; &nbsp; &nbsp;BAABAABAAAABBBBA <br>
+States sent  &nbsp; &nbsp; &nbsp; +10-10+0101+--+0 <br>
+
+Bob receives the stream of qubits and measures each one in a random basis: ABAABAAABABBBBA <br>
+	
+
+
